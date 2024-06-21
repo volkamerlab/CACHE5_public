@@ -1,0 +1,17 @@
+torch
+torch-geometric
+pandas
+rdkit
+sentencepiece
+wandb
+lightning
+rich
+scikit-learn
+evaluate
+transformers
+accelerate
+datasets
+torchmetrics
+seaborn
+matplotlib
+https://github.com/MushroomMaula/MolBERT/archive/master.tar.gz
